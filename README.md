@@ -1,5 +1,6 @@
 # Digital Image Processing (DIP) Project
-A MATLAB GUI-based application for digital image processing, built using MATLAB GUIDE. This project was developed as part of a Bachelor's degree coursework and demonstrates various image processing techniques applied to input images.
+A MATLAB GUI-based application for digital image processing, built using MATLAB GUIDE. 
+This project was developed as part of a Bachelor's degree coursework and demonstrates various image processing techniques applied to input images.
 
 ## Features
 
@@ -62,5 +63,5 @@ The interface contains two axes panels:
 - **Axes 4** — displays the processed output image
 
 ## Author
-
+- Sunbla Khan
 Developed as a Bachelor's degree project in Digital Image Processing.
